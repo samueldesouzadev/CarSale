@@ -23,4 +23,6 @@ public class Pessoa implements Serializable {
 
     private EnumSituacaoPessoa situacaoPessoa;
 
+    private double vlrFinanciamento;
+
 }
